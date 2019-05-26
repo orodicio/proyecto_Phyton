@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<playlists>
+  <playlist nombre="mi playlist">
+    <cancion>alb03c10</cancion>
+    <cancion>alb03c02</cancion>
+    <cancion>alb02c12</cancion>
+    <cancion>alb02c13</cancion>
+  </playlist>
+</playlists>

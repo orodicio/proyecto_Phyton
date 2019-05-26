@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="playlists.xsl"?>
+<playlists>
+  <playlist id="pl01" nombre="Mujeres favoritas" modo="ordenado">
+    <cancion id="alb01c01" orden="1"/>
+    <cancion id="alb02c01" orden="2"/>
+    <cancion id="alb03c01" orden="3"/>
+   <cancion id="alb01c09" orden="4"/>
+   <cancion id="alb02c12" orden="5"/>
+   <cancion id="alb03c05" orden="6"/>
+  </playlist>
+  <playlist id="pl02" nombre="Mujeres random" modo="aleatorio">
+    <cancion id="alb01c01"/>
+    <cancion id="alb01c02"/>
+    <cancion id="alb01c03"/>
+    <cancion id="alb02c01"/>
+    <cancion id="alb02c02"/>
+    <cancion id="alb03c01"/>
+    <cancion id="alb03c02"/>
+  </playlist>
+  <playlist id="pl03" nombre="Mujeres Álbumes" modo="aleatorio">
+    <cancion id="alb01c04"/>
+    <cancion id="alb01c08"/>
+    <cancion id="alb02c06"/>
+    <cancion id="alb03c02"/>
+    <cancion id="alb02c09"/>
+    <cancion id="alb03c10"/>
+    <cancion id="alb03c02"/>
+  </playlist>
+ <playlist id="pl04" nombre="Olallita" modo="aleatorio"><cancion id="alb03c10"/><cancion id="alb03c04"/><cancion id="alb03c02"/><cancion id="alb02c13"/><cancion id="alb02c12"/></playlist></playlists>
